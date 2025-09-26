@@ -23,31 +23,6 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 ---
 
-## 🛠️ **Hard Skills**
-
-### **Linguagens de Programação**
-<div style="margin: 10px 0;">
-
-**Python** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #3776ab, #4b8bbe); height: 20px; width: 40%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">40%</div>
-</div>
-
-**JavaScript** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #f7df1e, #f0db50); height: 20px; width: 25%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">25%</div>
-</div>
-
-**SQL** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #336791, #4e7ba7); height: 20px; width: 15%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">15%</div>
-</div>
-
-**HTML** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #e34f26, #f16529); height: 20px; width: 45%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">45%</div>
-</div>
-
 </div>
 
 ### **Ferramentas & Especialidades**
