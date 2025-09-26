@@ -22,50 +22,68 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 ---
 
-## 🛠️ **Hard Skills**
+</div>
+## 📊 **Skills Dashboard**
 
-### **Linguagens de Programação**
-<div style="margin: 10px 0;">
+<div align="center">
 
-**Python** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #3776ab, #4b8bbe); height: 20px; width: 85%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">45%</div>
+### 🎯 **Competências Técnicas**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**💻 DESENVOLVIMENTO**
+```
+┌─────────────────────────────────┐
+│  Python         ████████▌ 85%  │
+│  JavaScript     ███████▌  75%  │
+│  SQL            ████████  80%  │
+│  HTML           ███████   70%  │
+└─────────────────────────────────┘
+```
+
+</td>
+<td align="center" width="50%">
+
+**🛠️ FERRAMENTAS & ESPECIALIDADES**
+```
+┌─────────────────────────────────┐
+│  Power BI       ███████▊  78%  │
+│  CyberSecurity  ██████▌   65%  │
+│  Prompt Eng.    ████████▊88%  │
+└─────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+### 📈 **Métricas de Performance**
+
+<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+
+| 🎯 **Categoria** | 📊 **Nível** | 🚀 **Status** |
+|:---:|:---:|:---:|
+| **IA & Machine Learning** | `Avançado` | 🔥 Em crescimento |
+| **Data Science** | `Intermediário+` | 📈 Evoluindo |
+| **Cybersecurity** | `Intermediário` | 🛡️ Estudando |
+| **Prompt Engineering** | `Expert` | ⭐ Especialista |
+
 </div>
 
-**JavaScript** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #f7df1e, #f0db50); height: 20px; width: 75%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">20%</div>
-</div>
+### 🏆 **Ranking de Habilidades**
 
-**SQL** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #336791, #4e7ba7); height: 20px; width: 80%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">10%</div>
-</div>
-
-**HTML** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #e34f26, #f16529); height: 20px; width: 70%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">40%</div>
-</div>
-
-</div>
-
-### **Ferramentas & Especialidades**
-<div style="margin: 10px 0;">
-
-**Power BI** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #f2c811, #f4d03f); height: 20px; width: 78%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">50%</div>
-</div>
-
-**CyberSecurity** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #dc143c, #ff6b6b); height: 20px; width: 65%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">25%</div>
-</div>
-
-**Engenharia de Prompt** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #9b59b6, #be90d4); height: 20px; width: 88%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">55%</div>
-</div>
+```mermaid
+pie title Distribuição de Skills
+    "Python" : 85
+    "Prompt Engineering" : 88
+    "SQL" : 80
+    "Power BI" : 78
+    "JavaScript" : 75
+    "HTML" : 70
+    "CyberSecurity" : 65
+```
 
 </div>
 
