@@ -23,53 +23,43 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 ---
 
-</div>
-## 📊 **Skills Dashboard**
+## 🛠️ **Hard Skills**
+
+### 🎨 **Skills Interativas**
 
 <div align="center">
 
-### 🎯 **Competências Técnicas**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**💻 DESENVOLVIMENTO**
 ```
-┌─────────────────────────────────┐
-│  Python         ████      40%  │
-│  JavaScript     ██▌       25%  │
-│  SQL            █▌        15%  │
-│  HTML           ████▌     45%  │
-└─────────────────────────────────┘
-```
-
-</td>
-<td align="center" width="50%">
-
-**🛠️ FERRAMENTAS & ESPECIALIDADES**
-```
-┌─────────────────────────────────┐
-│  Power BI       ███▌      35%  │
-│  CyberSecurity  ██        20%  │
-│  Prompt Eng.    █████▌    55%  │
-└─────────────────────────────────┘
+╭─────────────────────────────────────────────────────────────╮
+│                    🚀 TECH STACK OVERVIEW                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🐍 Python           ████████░░░░░░░░░░░░░░░  40%          │
+│  🌐 JavaScript       ██████▌░░░░░░░░░░░░░░░░░  25%          │
+│  📄 HTML             ███████████▌░░░░░░░░░░░░  45%          │
+│  ⚛️ React            █████░░░░░░░░░░░░░░░░░░░  20%          │
+│  🤖 Prompt Eng.      █████████████▌░░░░░░░░░░  55%          │
+│  🗃️ SQL              ███▌░░░░░░░░░░░░░░░░░░░░░  15%          │
+│  📊 Power BI         ████████▌░░░░░░░░░░░░░░░  35%          │
+│  🛡️ CyberSecurity    █████░░░░░░░░░░░░░░░░░░░  20%          │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
-### 📈 **Métricas de Performance**
+<div align="center">
 
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-
-| 🎯 **Categoria** | 📊 **Nível** | 🚀 **Status** |
-|:---:|:---:|:---:|
-| **IA & Machine Learning** | `Iniciante+` | 🌱 Aprendendo |
-| **Data Science** | `Iniciante` | 📚 Estudando |
-| **Cybersecurity** | `Iniciante` | 🛡️ Explorando |
-| **Prompt Engineering** | `Intermediário` | 📈 Desenvolvendo |
+| 🎯 **Skill** | 📊 **Level** | 🔥 **Progress** | 🎨 **Visual** |
+|:---:|:---:|:---:|:---:|
+| **🤖 Prompt Engineering** | `55%` | `█████████████▌░░░░░░` | 🟢 **Avançando** |
+| **📄 HTML** | `45%` | `███████████▌░░░░░░░░` | 🟡 **Desenvolvendo** |
+| **🐍 Python** | `40%` | `████████░░░░░░░░░░░░` | 🟡 **Aprendendo** |
+| **📊 Power BI** | `35%` | `████████▌░░░░░░░░░░░` | 🟡 **Praticando** |
+| **🌐 JavaScript** | `25%` | `██████▌░░░░░░░░░░░░░` | 🟠 **Estudando** |
+| **⚛️ React** | `20%` | `█████░░░░░░░░░░░░░░░` | 🔴 **Explorando** |
+| **🛡️ CyberSecurity** | `20%` | `█████░░░░░░░░░░░░░░░` | 🔴 **Explorando** |
+| **🗃️ SQL** | `15%` | `███▌░░░░░░░░░░░░░░░░` | 🔴 **Iniciante** |
 
 </div>
 
@@ -123,20 +113,96 @@ pie title Distribuição de Skills
 
 ---
 
-## 🎯 **Áreas de Interesse**
+## 🎯 **Áreas de Interesse & Especialização**
+
+<div align="center">
+
+### 🌟 **Mapa de Conhecimento**
+
+</div>
 
 ```python
-areas_interesse = {
-    "Inteligência_Artificial": ["Machine Learning", "Deep Learning", "NLP"],
-    "Ciência_de_Dados": ["Data Analytics", "Data Mining", "Big Data"],
-    "Segurança": ["Ethical Hacking", "Threat Analysis", "Security Protocols"],
-    "Desenvolvimento": ["Web Development", "API Development", "Automation"],
-    "Inovação": ["Prompt Engineering", "AI Applications", "Tech Solutions"]
-}
+# 🧠 Mapa Mental - Filipe Gabriel
+class DataScientistProfile:
+    def __init__(self):
+        self.name = "Filipe Gabriel"
+        self.role = "AI & Data Student @ Instituto Caldeira"
+        self.passion = "Transforming data into insights 📊"
+        
+    def areas_interesse(self):
+        return {
+            "🤖 Inteligência_Artificial": {
+                "core": ["Machine Learning", "Deep Learning", "NLP"],
+                "tools": ["TensorFlow", "PyTorch", "Scikit-learn"],
+                "focus": "Building intelligent systems"
+            },
+            
+            "📊 Ciência_de_Dados": {
+                "core": ["Data Analytics", "Data Mining", "Big Data"],
+                "tools": ["Pandas", "NumPy", "Matplotlib", "Power BI"],
+                "focus": "Extracting meaningful patterns"
+            },
+            
+            "🛡️ Cybersecurity": {
+                "core": ["Ethical Hacking", "Threat Analysis", "Security Protocols"],
+                "tools": ["Kali Linux", "Wireshark", "Metasploit"],
+                "focus": "Protecting digital assets"
+            },
+            
+            "💻 Desenvolvimento": {
+                "core": ["Web Development", "Frontend Development", "API Development", "Automation"],
+                "tools": ["Python", "JavaScript", "React", "HTML", "SQL"],
+                "focus": "Creating robust solutions"
+            },
+            
+            "🚀 Inovação": {
+                "core": ["Prompt Engineering", "AI Applications", "Tech Solutions"],
+                "tools": ["GPT Models", "LangChain", "OpenAI API"],
+                "focus": "Pushing technological boundaries"
+            }
+        }
+    
+    def current_mission(self):
+        return """
+        🎯 Missão Atual:
+        ├── 📚 Dominar técnicas avançadas de IA
+        ├── 🔬 Aplicar ciência de dados em projetos reais  
+        ├── 🛡️ Explorar o mundo da cybersecurity
+        └── 🌟 Contribuir para o futuro da tecnologia
+        """
+
+# Instanciando o perfil
+filipe = DataScientistProfile()
+print(filipe.current_mission())
 ```
 
----
+<div align="center">
 
+### 🎨 **Roadmap de Aprendizado**
+
+```mermaid
+graph TD
+    A[🎓 Instituto Caldeira] --> B[🤖 IA & Machine Learning]
+    A --> C[📊 Data Science]
+    A --> D[🛡️ Cybersecurity]
+    
+    B --> E[🧠 Deep Learning]
+    B --> F[🔤 NLP]
+    B --> G[👁️ Computer Vision]
+    
+    C --> H[📈 Analytics]
+    C --> I[⛏️ Data Mining]
+    C --> J[📊 Visualization]
+    
+    D --> K[🔍 Ethical Hacking]
+    D --> L[🛡️ Security Protocols]
+    D --> M[🚨 Threat Analysis]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#f9ca24
+```
 ## 🏆 **Conquistas**
 
 - 🎓 **Estudante** no **Instituto Caldeira** - Programa de IA e Dados
