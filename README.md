@@ -76,13 +76,13 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 ```mermaid
 pie title Distribuição de Skills
-    "Python" : 85
-    "Prompt Engineering" : 88
-    "SQL" : 80
-    "Power BI" : 78
-    "JavaScript" : 75
-    "HTML" : 70
-    "CyberSecurity" : 65
+    "Python" : 45
+    "Prompt Engineering" : 55
+    "SQL" : 15
+    "Power BI" : 35
+    "JavaScript" : 20
+    "HTML" : 40
+    "CyberSecurity" : 25
 ```
 
 </div>
