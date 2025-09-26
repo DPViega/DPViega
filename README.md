@@ -47,6 +47,7 @@ pie title Distribuição de Skills
     "Python" : 40
     "Power BI" : 35
     "JavaScript" : 25
+    "React" : 20
     "CyberSecurity" : 20
     "SQL" : 15
 ```
