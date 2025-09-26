@@ -24,7 +24,7 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 ---
 
 <div align="center">
-
+    
 | 🎯 **Skill** | 🔥 **Progress** | 🎨 **Visual** |
 |:---:|:---:|:---:|:---:|
 | **🤖 Prompt Engineering** | `█████████████▌░░░░░░` | 🟢 **Avançando** |
