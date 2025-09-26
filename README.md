@@ -27,7 +27,7 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 ### 🎨 **Skills Interativas**
 
-<div align="center">
+```
     
 ╭─────────────────────────────────────────────────────────────╮
 │                    🚀 TECH STACK OVERVIEW                  │
