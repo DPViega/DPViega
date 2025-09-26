@@ -29,22 +29,22 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 **Python** 
 <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #3776ab, #4b8bbe); height: 20px; width: 85%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">85%</div>
+  <div style="background: linear-gradient(90deg, #3776ab, #4b8bbe); height: 20px; width: 85%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">45%</div>
 </div>
 
 **JavaScript** 
 <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #f7df1e, #f0db50); height: 20px; width: 75%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">75%</div>
+  <div style="background: linear-gradient(90deg, #f7df1e, #f0db50); height: 20px; width: 75%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">20%</div>
 </div>
 
 **SQL** 
 <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #336791, #4e7ba7); height: 20px; width: 80%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">80%</div>
+  <div style="background: linear-gradient(90deg, #336791, #4e7ba7); height: 20px; width: 80%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">10%</div>
 </div>
 
 **HTML** 
 <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #e34f26, #f16529); height: 20px; width: 70%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">70%</div>
+  <div style="background: linear-gradient(90deg, #e34f26, #f16529); height: 20px; width: 70%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">40%</div>
 </div>
 
 </div>
@@ -54,17 +54,17 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 **Power BI** 
 <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #f2c811, #f4d03f); height: 20px; width: 78%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">78%</div>
+  <div style="background: linear-gradient(90deg, #f2c811, #f4d03f); height: 20px; width: 78%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">50%</div>
 </div>
 
 **CyberSecurity** 
 <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #dc143c, #ff6b6b); height: 20px; width: 65%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">65%</div>
+  <div style="background: linear-gradient(90deg, #dc143c, #ff6b6b); height: 20px; width: 65%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">25%</div>
 </div>
 
 **Engenharia de Prompt** 
 <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #9b59b6, #be90d4); height: 20px; width: 88%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">88%</div>
+  <div style="background: linear-gradient(90deg, #9b59b6, #be90d4); height: 20px; width: 88%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">55%</div>
 </div>
 
 </div>
