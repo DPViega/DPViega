@@ -24,26 +24,6 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 ---
 
 </div>
-
-### **Ferramentas & Especialidades**
-<div style="margin: 10px 0;">
-
-**Power BI** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #f2c811, #f4d03f); height: 20px; width: 35%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">35%</div>
-</div>
-
-**CyberSecurity** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #dc143c, #ff6b6b); height: 20px; width: 20%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">20%</div>
-</div>
-
-**Engenharia de Prompt** 
-<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
-  <div style="background: linear-gradient(90deg, #9b59b6, #be90d4); height: 20px; width: 55%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">55%</div>
-</div>
-
-</div>
 ## 📊 **Skills Dashboard**
 
 <div align="center">
