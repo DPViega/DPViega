@@ -1,3 +1,4 @@
+<div align="center">
 
 # 👋 Olá, eu sou **Filipe Gabriel**
 
@@ -22,6 +23,51 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 ---
 
+## 🛠️ **Hard Skills**
+
+### **Linguagens de Programação**
+<div style="margin: 10px 0;">
+
+**Python** 
+<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+  <div style="background: linear-gradient(90deg, #3776ab, #4b8bbe); height: 20px; width: 40%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">40%</div>
+</div>
+
+**JavaScript** 
+<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+  <div style="background: linear-gradient(90deg, #f7df1e, #f0db50); height: 20px; width: 25%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">25%</div>
+</div>
+
+**SQL** 
+<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+  <div style="background: linear-gradient(90deg, #336791, #4e7ba7); height: 20px; width: 15%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">15%</div>
+</div>
+
+**HTML** 
+<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+  <div style="background: linear-gradient(90deg, #e34f26, #f16529); height: 20px; width: 45%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">45%</div>
+</div>
+
+</div>
+
+### **Ferramentas & Especialidades**
+<div style="margin: 10px 0;">
+
+**Power BI** 
+<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+  <div style="background: linear-gradient(90deg, #f2c811, #f4d03f); height: 20px; width: 35%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: black; font-size: 12px; font-weight: bold;">35%</div>
+</div>
+
+**CyberSecurity** 
+<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+  <div style="background: linear-gradient(90deg, #dc143c, #ff6b6b); height: 20px; width: 20%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">20%</div>
+</div>
+
+**Engenharia de Prompt** 
+<div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+  <div style="background: linear-gradient(90deg, #9b59b6, #be90d4); height: 20px; width: 55%; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 12px; font-weight: bold;">55%</div>
+</div>
+
 </div>
 ## 📊 **Skills Dashboard**
 
@@ -36,10 +82,10 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 **💻 DESENVOLVIMENTO**
 ```
 ┌─────────────────────────────────┐
-│  Python         ████████▌ 85%  │
-│  JavaScript     ███████▌  75%  │
-│  SQL            ████████  80%  │
-│  HTML           ███████   70%  │
+│  Python         ████      40%  │
+│  JavaScript     ██▌       25%  │
+│  SQL            █▌        15%  │
+│  HTML           ████▌     45%  │
 └─────────────────────────────────┘
 ```
 
@@ -49,9 +95,9 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 **🛠️ FERRAMENTAS & ESPECIALIDADES**
 ```
 ┌─────────────────────────────────┐
-│  Power BI       ███████▊  78%  │
-│  CyberSecurity  ██████▌   65%  │
-│  Prompt Eng.    ████████▊88%  │
+│  Power BI       ███▌      35%  │
+│  CyberSecurity  ██        20%  │
+│  Prompt Eng.    █████▌    55%  │
 └─────────────────────────────────┘
 ```
 
@@ -65,10 +111,10 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 | 🎯 **Categoria** | 📊 **Nível** | 🚀 **Status** |
 |:---:|:---:|:---:|
-| **IA & Machine Learning** | `Avançado` | 🔥 Em crescimento |
-| **Data Science** | `Intermediário+` | 📈 Evoluindo |
-| **Cybersecurity** | `Intermediário` | 🛡️ Estudando |
-| **Prompt Engineering** | `Expert` | ⭐ Especialista |
+| **IA & Machine Learning** | `Iniciante+` | 🌱 Aprendendo |
+| **Data Science** | `Iniciante` | 📚 Estudando |
+| **Cybersecurity** | `Iniciante` | 🛡️ Explorando |
+| **Prompt Engineering** | `Intermediário` | 📈 Desenvolvendo |
 
 </div>
 
@@ -76,13 +122,13 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 
 ```mermaid
 pie title Distribuição de Skills
-    "Python" : 45
-    "Prompt Engineering" : 55
-    "SQL" : 15
+    "Engenharia de Prompt" : 55
+    "HTML" : 45
+    "Python" : 40
     "Power BI" : 35
-    "JavaScript" : 20
-    "HTML" : 40
-    "CyberSecurity" : 25
+    "JavaScript" : 25
+    "CyberSecurity" : 20
+    "SQL" : 15
 ```
 
 </div>
@@ -168,17 +214,3 @@ areas_interesse = {
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=filipegabriel.filipegabriel)
 
 </div>
-<!--
-**DPViega/DPViega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
