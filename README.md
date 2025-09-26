@@ -28,8 +28,7 @@ Sou um estudante apaixonado por **Inteligência Artificial** e **Ciência de Dad
 ### 🎨 **Skills Interativas**
 
 <div align="center">
-
-```
+    
 ╭─────────────────────────────────────────────────────────────╮
 │                    🚀 TECH STACK OVERVIEW                  │
 ├─────────────────────────────────────────────────────────────┤
@@ -112,69 +111,6 @@ pie title Distribuição de Skills
 </div>
 
 ---
-
-## 🎯 **Áreas de Interesse & Especialização**
-
-<div align="center">
-
-### 🌟 **Mapa de Conhecimento**
-
-</div>
-
-```python
-# 🧠 Mapa Mental - Filipe Gabriel
-class DataScientistProfile:
-    def __init__(self):
-        self.name = "Filipe Gabriel"
-        self.role = "AI & Data Student @ Instituto Caldeira"
-        self.passion = "Transforming data into insights 📊"
-        
-    def areas_interesse(self):
-        return {
-            "🤖 Inteligência_Artificial": {
-                "core": ["Machine Learning", "Deep Learning", "NLP"],
-                "tools": ["TensorFlow", "PyTorch", "Scikit-learn"],
-                "focus": "Building intelligent systems"
-            },
-            
-            "📊 Ciência_de_Dados": {
-                "core": ["Data Analytics", "Data Mining", "Big Data"],
-                "tools": ["Pandas", "NumPy", "Matplotlib", "Power BI"],
-                "focus": "Extracting meaningful patterns"
-            },
-            
-            "🛡️ Cybersecurity": {
-                "core": ["Ethical Hacking", "Threat Analysis", "Security Protocols"],
-                "tools": ["Kali Linux", "Wireshark", "Metasploit"],
-                "focus": "Protecting digital assets"
-            },
-            
-            "💻 Desenvolvimento": {
-                "core": ["Web Development", "Frontend Development", "API Development", "Automation"],
-                "tools": ["Python", "JavaScript", "React", "HTML", "SQL"],
-                "focus": "Creating robust solutions"
-            },
-            
-            "🚀 Inovação": {
-                "core": ["Prompt Engineering", "AI Applications", "Tech Solutions"],
-                "tools": ["GPT Models", "LangChain", "OpenAI API"],
-                "focus": "Pushing technological boundaries"
-            }
-        }
-    
-    def current_mission(self):
-        return """
-        🎯 Missão Atual:
-        ├── 📚 Dominar técnicas avançadas de IA
-        ├── 🔬 Aplicar ciência de dados em projetos reais  
-        ├── 🛡️ Explorar o mundo da cybersecurity
-        └── 🌟 Contribuir para o futuro da tecnologia
-        """
-
-# Instanciando o perfil
-filipe = DataScientistProfile()
-print(filipe.current_mission())
-```
 
 <div align="center">
 
