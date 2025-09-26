@@ -1,4 +1,3 @@
-div align="center">
 
 # 👋 Olá, eu sou **Filipe Gabriel**
 
