@@ -4,7 +4,7 @@
 
 ### Mais conhecido como **Viega** | Nascido em 2006 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_-medium=ios_apps)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DPViega)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viega.dev@yahoo.com)
 
