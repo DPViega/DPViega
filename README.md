@@ -126,8 +126,8 @@ graph LR
 <div align="center">
 
 📧 **Email:** viega.dev@yahoo.com
-💼 **LinkedIn:** [Seu perfil LinkedIn](br.linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302)
-🐙 **GitHub:** [github.com/seu-usuario]([https://github.com/seu-usuario](https://github.com/DPViega))
+💼 **LinkedIn:** (br.linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302)
+🐙 **GitHub:** (https://github.com/DPViega))
 
 </div>
 
