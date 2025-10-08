@@ -4,9 +4,9 @@
 
 ### Mais conhecido como **Viega** | Nascido em 2006 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](br.linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DPViega)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viega.dev@yahoo.com)
 
 </div>
 
@@ -116,18 +116,6 @@ graph LR
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📫 Entre em Contato
-
-<div align="center">
-
-📧 **Email:** viega.dev@yahoo.com
-💼 **LinkedIn:** (br.linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302)
-🐙 **GitHub:** (https://github.com/DPViega))
 
 </div>
 
