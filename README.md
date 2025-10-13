@@ -18,14 +18,16 @@ Atualmente me dedico ao estudo intensivo de **Inteligência Artificial** e **An�
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AI](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+| Skill | Proficiência |
+|:------|:-------------|
+| 🔥 **Prompt Engineering** | ![75%](https://progress-bar.dev/75?color=6366f1&width=200) |
+| 📊 **Power BI** | ![65%](https://progress-bar.dev/65?color=6366f1&width=200) |
+| 🐍 **Python** | ![45%](https://progress-bar.dev/45?color=6366f1&width=200) |
+| 🌐 **HTML** | ![40%](https://progress-bar.dev/40?color=6366f1&width=200) |
+| 💻 **JavaScript** | ![20%](https://progress-bar.dev/20?color=6366f1&width=200) |
+| 🔐 **Cybersecurity** | ![20%](https://progress-bar.dev/20?color=6366f1&width=200) |
+| 🗄️ **SQL** | ![15%](https://progress-bar.dev/15?color=6366f1&width=200) |
+| ⚛️ **React** | ![15%](https://progress-bar.dev/15?color=6366f1&width=200) |
 
 </div>
 
@@ -83,11 +85,11 @@ mindmap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DPViega)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viega.dev@yahoo.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wordloop15)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dev.viega)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipegabriel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu-id)
 
 </div>
 
@@ -100,6 +102,17 @@ mindmap
 - 🧠 **Natural Language Processing**
 - 🔐 **Cybersecurity Fundamentals**
 - ⚛️ **React & Modern Web Development**
+
+---
+
+## 💻 Principais Projetos
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipegabriel&repo=projeto-ia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/filipegabriel/projeto-ia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipegabriel&repo=analise-dados&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/filipegabriel/analise-dados)
+
+</div>
 
 ---
 
