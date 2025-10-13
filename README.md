@@ -1,72 +1,69 @@
+# 👋 Olá! Eu sou Filipe Gabriel Veiga de Paula
+
 <div align="center">
-
-# 👋 Olá, eu sou Filipe Gabriel Veiga de Paula
-
-### Mais conhecido como **Viega** | Nascido em 2006 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/filipe-gabriel-veiga-de-paula-704b2a302)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DPViega)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viega.dev@yahoo.com)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+IA+e+Dados;Geração+Caldeira+🔥;1+dos+200+de+18+mil+candidatos)](https://git.io/typing-svg)
 
 </div>
-
----
 
 ## 🎯 Sobre Mim
 
-> **Um dos 200 selecionados entre 18.000 candidatos no Geração Caldeira**
+Sou um dos **200 selecionados** entre **18 mil candidatos** para integrar o prestigioso programa **Geração Caldeira** 🔥
 
-Atualmente cursando **IA e Dados** no programa Geração Caldeira, estou em uma jornada intensa de aprendizado e desenvolvimento na área de tecnologia. Apaixonado por dados, inteligência artificial e segurança da informação, busco sempre combinar conhecimento técnico com soft skills que fazem a diferença.
+Atualmente me dedico ao estudo intensivo de **Inteligência Artificial** e **Análise de Dados**, buscando constantemente evoluir minhas habilidades técnicas e contribuir com projetos inovadores.
 
 ---
 
-## 💻 Hard Skills
+## 🚀 Hard Skills
 
 <div align="center">
 
-| Tecnologia | Proficiência |
-|-----------|--------------|
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) **SQL** | ![15%](https://progress-bar.dev/85?width=200&color=336791) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** | ![45%](https://progress-bar.dev/80?width=200&color=3776AB) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** | ![20%](https://progress-bar.dev/75?width=200&color=F7DF1E) |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React** | ![15%](https://progress-bar.dev/70?width=200&color=61DAFB) |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML** | ![40%](https://progress-bar.dev/90?width=200&color=E34F26) |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) **Power BI** | ![65%](https://progress-bar.dev/65?width=200&color=F2C811) |
-| ![AI](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat&logo=openai&logoColor=white) **Prompt Engineering** | ![75%](https://progress-bar.dev/75?width=200&color=412991) |
-| ![CyberSecurity](https://img.shields.io/badge/CyberSecurity-000000?style=flat&logo=hackaday&logoColor=white) **CyberSecurity** | ![20%](https://progress-bar.dev/60?width=200&color=000000) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AI](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Soft Skills
+## 💎 Soft Skills
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[Viega] --> B[Carismático]
-    A --> C[Simpático]
-    A --> D[Disciplinado]
-    A --> E[Resiliente]
-
-    style A fill:#2196F3,stroke:#1976D2,stroke-width:3px,color:#fff
-    style B fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#fff
-    style C fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#fff
-    style D fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#fff
-    style E fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#fff
+mindmap
+  root((Filipe))
+    🌟 Carismático
+    💪 Disciplinado
+    🔄 Resiliente
+    😊 Simpático
 ```
 
 </div>
 
-<div align="center">
-
 | Soft Skill | Descrição |
-|-----------|-----------|
-| 🎭 **Carismático** | Facilidade em criar conexões e engajar pessoas |
-| 😊 **Simpático** | Abordagem positiva e colaborativa no ambiente de trabalho |
-| 💪 **Disciplinado** | Comprometimento e consistência nos estudos e projetos |
-| 🔥 **Resiliente** | Capacidade de superar desafios e aprender com adversidades |
+|:----------:|:---------:|
+| 🌟 **Carismático** | Facilidade em criar conexões e engajar equipes |
+| 💪 **Disciplinado** | Comprometimento com metas e prazos |
+| 🔄 **Resiliente** | Capacidade de superar desafios |
+| 😊 **Simpático** | Ambiente colaborativo e positivo |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegabriel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipegabriel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=filipegabriel&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=c9d1d9)
 
 </div>
 
@@ -74,34 +71,44 @@ graph LR
 
 ## 🏆 Conquistas
 
-- ✅ **Selecionado entre os 200 finalistas** de 18.000 candidatos no Geração Caldeira
-- 📚 Estudante de **IA e Dados** no Geração Caldeira
-- 💼 Desenvolvendo projetos em **Ciência de Dados** e **Inteligência Artificial**
-- 🔒 Explorando o universo da **CyberSecurity**
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=filipegabriel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🎯 Objetivos 2025
-
-- [ ] Concluir o programa Geração Caldeira com excelência
-- [X] Desenvolver projetos com os meus novo conhecimentos
-- [ ] Contribuir para projetos open source
-- [ ] Expandir network na área de tecnologia
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+## 📫 Conecte-se Comigo
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipegabriel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu-id)
+
+</div>
+
+---
+
+## 🌱 Atualmente Estudando
+
+- 🤖 **Machine Learning & Deep Learning**
+- 📊 **Data Science & Analytics**
+- 🧠 **Natural Language Processing**
+- 🔐 **Cybersecurity Fundamentals**
+- ⚛️ **React & Modern Web Development**
+
+---
+
+## 💻 Principais Projetos
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipegabriel&repo=projeto-ia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/filipegabriel/projeto-ia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipegabriel&repo=analise-dados&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/filipegabriel/analise-dados)
 
 </div>
 
@@ -109,16 +116,10 @@ graph LR
 
 <div align="center">
 
-### 💡 "A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
+### 🔥 Geração Caldeira - Transformando o Futuro com IA e Dados
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square&label=Visualizações+do+Perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=filipegabriel&color=6366f1&style=for-the-badge)
 
-</div>
-
----
-
-<div align="center">
-
-**⭐ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!**
+**"A persistência é o caminho do êxito"** 💫
 
 </div>
