@@ -20,14 +20,15 @@ Atualmente me dedico ao estudo intensivo de **Inteligência Artificial** e **An�
 
 | Skill | Proficiência |
 |:------|:-------------|
-| 🔥 **Prompt Engineering** | ![75%](https://progress-bar.dev/75?color=6366f1&width=200) |
-| 📊 **Power BI** | ![65%](https://progress-bar.dev/65?color=6366f1&width=200) |
-| 🐍 **Python** | ![45%](https://progress-bar.dev/45?color=6366f1&width=200) |
-| 🌐 **HTML** | ![40%](https://progress-bar.dev/40?color=6366f1&width=200) |
-| 💻 **JavaScript** | ![20%](https://progress-bar.dev/20?color=6366f1&width=200) |
-| 🔐 **Cybersecurity** | ![20%](https://progress-bar.dev/20?color=6366f1&width=200) |
-| 🗄️ **SQL** | ![15%](https://progress-bar.dev/15?color=6366f1&width=200) |
-| ⚛️ **React** | ![15%](https://progress-bar.dev/15?color=6366f1&width=200) |
+| 🔥 **Prompt Engineering** | <progress value="75" max="100"></progress> 75% |
+| 📊 **Power BI** | <progress value="65" max="100"></progress> 65% |
+| 🐍 **Python** | <progress value="45" max="100"></progress> 45% |
+| 🌐 **HTML** | <progress value="40" max="100"></progress> 40% |
+| 💻 **JavaScript** | <progress value="20" max="100"></progress> 20% |
+| 🔐 **Cybersecurity** | <progress value="20" max="100"></progress> 20% |
+| 🗄️ **SQL** | <progress value="15" max="100"></progress> 15% |
+| ⚛️ **React** | <progress value="15" max="100"></progress> 15% |
+
 
 </div>
 
