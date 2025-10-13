@@ -103,17 +103,6 @@ mindmap
 
 ---
 
-## 💻 Principais Projetos
-
-<div align="center">
-
-[![Readme Card](https://github.com/DPViega/Life_Simple-Project)](https://github.com/DPViega/Projeto-Portfolio)
-[![Readme Card](https://github.com/DPViega/Life_Simple-Project)](https://github.com/DPViega/Life_Simple-Project)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🔥 Geração Caldeira - Transformando o Futuro com IA e Dados
