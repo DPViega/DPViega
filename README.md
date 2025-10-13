@@ -105,17 +105,6 @@ mindmap
 
 ---
 
-## 💻 Principais Projetos
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipegabriel&repo=projeto-ia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/filipegabriel/projeto-ia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipegabriel&repo=analise-dados&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/filipegabriel/analise-dados)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🔥 Geração Caldeira - Transformando o Futuro com IA e Dados
