@@ -39,10 +39,6 @@ Aqui estão alguns dos projetos mais recentes e relevantes nos quais tenho traba
   Uma API para um bot com o objetivo de apoiar na resolução de problemas de exatas.  
   *Tecnologias: Python*
 
-- 📊 **[Dash Suporte Técnico (Atividade GC)](https://github.com/DPViega/Dash-Suporte-Tecnico-Atividade-GC)**  
-  Um dashboard interativo focado para rotinas de suporte técnico e acompanhamento de chamados.  
-  *Tecnologias: TypeScript* | [🔗 Acessar Site](https://dash-suporte-tecnico-atividade-gc.vercel.app)
-
 - 🌱 **[Life Simple Project](https://github.com/DPViega/Life_Simple-Project)**  
   Aplicação pensada para simplificar rotinas através da tecnologia.  
   *Tecnologias: TypeScript* | [🔗 Acessar Site](https://life-simple-project.vercel.app)
@@ -55,10 +51,14 @@ Aqui estão alguns dos projetos mais recentes e relevantes nos quais tenho traba
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPViega&show_icons=true&theme=dark" alt="Estatísticas do DPViega" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPViega&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
-</div>
+<p align="center">
+  <a href="https://github.com/DPViega">
+    <img src="https://github-readme-stats.vercel.app/api?username=DPViega&show_icons=true&theme=omni" alt="Estatísticas do DPViega" />
+  </a>
+  <a href="https://github.com/DPViega">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPViega&layout=compact&theme=omni" alt="Linguagens mais usadas" />
+  </a>
+</p>
 
 ---
 *Fique à vontade para explorar os repositórios! Se tiver alguma dúvida ou quiser bater um papo, é só me chamar.*
