@@ -2,6 +2,13 @@
 
 Sou apaixonado por tecnologia, desenvolvimento e dados. Aqui você encontrará meus projetos, estudos e iniciativas.
 
+---
+
+## 🏆 Conquistas e Educação
+
+🎓 **Alumni Geração Caldeira (2025)**  
+Fui um dos **200 selecionados entre mais de 18.000 inscritos** para participar do programa de quatro trilhas do Instituto Caldeira. Concluí com sucesso a trilha com foco em **Inteligência Artificial e Dados**!
+
 <div align="center">
 
 ## 🚀 Hard Skills
