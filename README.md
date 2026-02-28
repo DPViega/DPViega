@@ -2,6 +2,8 @@
 
 Sou apaixonado por tecnologia, desenvolvimento e dados. Aqui você encontrará meus projetos, estudos e iniciativas.
 
+<div align="center">
+
 ## 🚀 Hard Skills
 
 | Skill | Proficiência |
@@ -16,6 +18,8 @@ Sou apaixonado por tecnologia, desenvolvimento e dados. Aqui você encontrará m
 | 🟢 **Node.js** | 30% |
 | 🎨 **Tailwind CSS** | 25% |
 | 🛠️ **Git & GitHub** | 20% |
+
+</div>
 
 ---
 
@@ -53,10 +57,10 @@ Aqui estão alguns dos projetos mais recentes e relevantes nos quais tenho traba
 
 <p align="center">
   <a href="https://github.com/DPViega">
-    <img src="https://github-readme-stats.vercel.app/api?username=DPViega&show_icons=true&theme=omni" alt="Estatísticas do DPViega" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=DPViega&show_icons=true&theme=omni" alt="Estatísticas do DPViega" />
   </a>
   <a href="https://github.com/DPViega">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPViega&layout=compact&theme=omni" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DPViega&layout=compact&theme=omni" alt="Linguagens mais usadas" />
   </a>
 </p>
 
