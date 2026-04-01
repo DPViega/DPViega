@@ -38,7 +38,7 @@ Aqui estão alguns dos projetos mais recentes e relevantes nos quais tenho traba
   Um projeto dedicado a compartilhar informações e apoio sobre fibromialgia na forma de um blog.  
   *Tecnologias: TypeScript* | [🔗 Acessar Site](https://juntospelafibromialgia.vercel.app)
 
-- 👨‍💻 **[Projeto-Portfolio](https://github.com/DPViega/Projeto-Portfolio)**  
+- 👨‍💻 **[Projeto-Portfolio](https://github.com/DPViega/Portfolio-2.0)**  
   Meu portfólio pessoal online mostrando meus trabalhos e contato.  
   *Tecnologias: TypeScript* | [🔗 Acessar Site](https://projeto-portfolio-gilt-beta.vercel.app)
 
